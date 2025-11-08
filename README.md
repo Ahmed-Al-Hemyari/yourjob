@@ -74,7 +74,7 @@ yourjob/
 │   ├── App.vue
 │   └── main.js
 │   └── jobs.json           # Local job listings data
-├── screenshotes/
+├── screenshots/
 │   ├── home-page.png
 │   ├── jobs-page.png
 │   └── add-job-page.png

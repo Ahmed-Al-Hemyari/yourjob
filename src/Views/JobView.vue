@@ -1,5 +1,4 @@
 <script setup>
-    import axios from 'axios';
     import { onMounted, reactive } from 'vue';
     import { RouterLink, useRoute, useRouter } from 'vue-router';
 
