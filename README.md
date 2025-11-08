@@ -18,13 +18,13 @@ It uses a local `jobs.json` file as its database, making it perfect for small pr
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshotes/home-page.png)
+![Home Page](screenshots/home-page.png)
 
 ### 💼 Jobs Page
-![Jobs Page](screenshotes/jobs-page.png)
+![Jobs Page](screenshots/jobs-page.png)
 
 ### ➕ Add Job Page
-![Add Job Page](screenshotes/add-job-page.png)
+![Add Job Page](screenshots/add-job-page.png)
 
 ---
 
