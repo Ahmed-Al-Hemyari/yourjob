@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "primeicons/primeicons.css";
+
+@layer theme {
+  :root {
+    --color-darkGray: #272525;
+    --color-golden: #bf9032;
+    --color-darkGolden: #72561f;
+  }
+}
